@@ -1,4 +1,4 @@
-header { background: linear-gradient(to right, #5eda4e, #509bf5);
+header { background: linear-gradient(to right, #5eda4e, #EBA35C);
 	padding: 20px 0;
 	width: 100vw;
 }
@@ -143,18 +143,13 @@ font-weight: bold;
 
  h4
  {
-/* text-shadow:
+text-shadow:
 	3px 3px 0 #000,
 	-1px -1px 0 #000,
 	1px -1px 0 #000,
 	-1px 1px 0 #000,
-	1px 1px 0 #000; */
-	text-shadow:
-	6px 6px 0 #000,
-	-2px -2px 0 #000,
-	2px -2px 0 #000,
-	2px 2px 0 #000,
-	2px 2px 0 #000;
+	1px 1px 0 #000; 
+	
  }
 /*<h2><img class="frango" src="frango.png"></h2>*/
 .imagem-rodape{
