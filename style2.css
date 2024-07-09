@@ -1,0 +1,122 @@
+:root{
+    ---cor-de-fundo: #000000;
+    ---branco: #FFFFFF;
+    ---cinza: #121212;
+	---cabecalho: linear-gradient(to right, #5eda4e, #EBA35C);
+    ---fonte-principal: "Anton SC" ;
+    ---azul: #0b1e2d;
+}
+
+
+.cabecalho { background: var(---cabecalho);
+	padding: 20px 0;
+	width: 100vw;
+}
+
+
+
+
+body
+{ background: var(---cor-de-fundo);
+	width: 100vw;
+    color: var(---branco);
+}
+
+
+h1 { text-align: center;
+    font-size: 60px;
+    padding: 20px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: bold;
+    -webkit-text-stroke: 1px black;
+        color:var(---branco);
+        text-shadow:
+            3px 3px 0 #000,
+            -3px 3px 0 #000,
+            -3px -3px 0 #000,
+            3px -3px 0 #000;
+    }
+    .exemplos{
+        background-color: var(---cor-de-fundo);
+       
+        padding-left: 30px;
+        font-family: var(---fonte-principal);
+ padding: 30px;
+ color: var(---branco);
+ border-radius: 20px;
+    }
+       
+    
+
+    .explicacao{
+ font-family: var(---fonte-principal);
+ padding: 30px;
+ color: var(---branco);
+ background-color: var(---cinza);
+ border-radius: 20px;
+    }
+    .imagem-1{
+        width:50vw;
+            margin-left:50vw;
+            margin-top:-150px;
+            
+                  
+                    
+            
+        }
+        
+
+
+    .imagem-2 {
+        
+        width: 70vw;
+        text-align: center;
+
+}
+/* .imagem-1{
+width:50vw;
+
+text-align: center;
+          
+            
+    
+} */
+
+
+
+    .exemplos-cc{
+        background-color: var(---cor-de-fundo);
+    }
+
+
+
+
+      .disclaimer-premium {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        background: var(---cabecalho);
+        padding: 1rem;
+        color: #000;
+      }
+      
+     
+     
+      .disclaimer-premium button {
+        background-color: #fff;
+        color: #000;
+        height: 50px;
+        border: 0;
+        border-radius: 9999px;
+        padding: 14px 30px;
+        font-size: 16px;
+        font-weight: bold;
+        text-align: center;
+        vertical-align: middle;
+        flex-shrink: 0;
+          cursor: pointer;
+      } 
+
+      .rodapé__titulo{
+        text-align: center;
+      }
