@@ -3,7 +3,7 @@
     ---branco: #FFFFFF;
     ---cinza: #121212;
 	---cabecalho: linear-gradient(to right, #5eda4e, #EBA35C);
-    ---fonte-principal: "Anton SC" ;
+    ---fonte-principal: font-family: "Oswald", sans-serif ;
     ---azul: #0b1e2d;
 }
 
@@ -26,7 +26,7 @@ body
 h1 { text-align: center;
     font-size: 60px;
     padding: 20px;
-    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-family:var(---fonte-principal);
     font-weight: bold;
     -webkit-text-stroke: 1px black;
         color:var(---branco);
