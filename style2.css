@@ -106,7 +106,7 @@ text-align: center;
       
      
      
-      .disclaimer-premium .button {
+      .disclaimer-premium button {
         background-color: #fff;
         color: #000;
         height: 50px;
@@ -122,5 +122,5 @@ text-align: center;
       } 
 
       .rodapé__titulo{
-        text-align: center;
+        
       }
