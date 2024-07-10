@@ -99,7 +99,7 @@ text-align: center;
         display: flex;
         flex-direction: row;
         justify-content: space-between;
-        background: var(---cabecalho);
+        background-image: url('fundo.jpg');
         padding: 1rem;
         color: #000;
       }
