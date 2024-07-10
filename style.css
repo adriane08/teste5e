@@ -1,3 +1,26 @@
+
+
+:root {
+    --cor-de-fundo: #000;
+    --branco: #FFFFFF;
+    --cinza: #121212;
+	--cabecalho: linear-gradient(to right, #5eda4e, #EBA35C);
+
+    --fonte-principal:font-family: "Oswald", sans-serif ;
+    --azul: #002F52;
+}
+
+body {
+    background-color: var(---cor-de-fundo);
+    font-family: var(---fonte-principal);
+    font-size: 16px;
+    font-weight: 400;
+}
+
+
+
+
+
 header { background: linear-gradient(to right, #5eda4e, #EBA35C);
 	padding: 20px 0;
 	width: 100vw;
@@ -13,31 +36,7 @@ body
 	margin: 0 auto;
 }
 
-/* nav {
-	position: absolute;
-	top: 110px;
-	right: 0; }*/
 
-
-/* nav li {
-	display: inline;
-	margin: 0 0 0 15px;
-	color:  #5eda4e,;
-} */
-
-/* nav a {
-	
-
-	
-	color: #f1f1f1;
-	font-weight: bold;
-	font-size: 22px;}
-	 */
-
-/* nav a:hover {
-	color:  #509bf5;
-	text-decoration: underline;
-} */
 
 .produtos {
 	width: 100vw;
@@ -151,7 +150,7 @@ text-shadow:
 	1px 1px 0 #000; 
 	
  }
-/*<h2><img class="frango" src="frango.png"></h2>*/
+
 .imagem-rodape{
 	width: 100vw;
 	height: 30vw;
@@ -164,7 +163,7 @@ h3{
 	
 	padding: 50px;
 	
-     font-family: "Anton SC", sans-serif;
+     font-family: var(---fonte-principal);
 	text-align: center;
 	
 	background-color: #242424;
