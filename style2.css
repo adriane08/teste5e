@@ -121,4 +121,6 @@ text-align: center;
           cursor: pointer;
       } 
 
- 
+ .rodapé__titulo{
+    height: 6px;
+ }
