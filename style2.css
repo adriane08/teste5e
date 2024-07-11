@@ -78,14 +78,7 @@ body
         text-align: center;
 
 }
-/* .imagem-1{
-width:50vw;
 
-text-align: center;
-          
-            
-    
-} */
 
 
 
@@ -102,7 +95,8 @@ text-align: center;
         justify-content: space-between;
         background-image: url('fundo.jpg');
         padding: 1rem;
-        color: #000;
+        color:var(---branco);
+        font-family: var(---fonte-principal);
       }
       
      
@@ -127,5 +121,4 @@ text-align: center;
     color: var(---branco)
  }
 
-.disclaimer-premium text{
-	color: var (---btanco);}
+
