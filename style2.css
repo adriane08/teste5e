@@ -33,11 +33,11 @@ body
         -webkit-text-stroke: 1px black;
             color:var(---branco);
             text-shadow:
-        3px 3px 0 var(---cor-de-fundo),
-        -1px -1px 0 var(---cor-de-fundo),
-        1px -1px 0 var(---cor-de-fundo),
-        -1px 1px 0 var(---cor-de-fundo),
-        1px 1px 0 var(---cor-de-fundo); 
+        6px 6px 0 var(---cor-de-fundo),
+        -2px -2px 0 var(---cor-de-fundo),
+        2px -2px 0 var(---cor-de-fundo),
+        -2px 2px 0 var(---cor-de-fundo),
+        2px 2px 0 var(---cor-de-fundo); 
         
         }
     
