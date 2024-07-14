@@ -21,7 +21,7 @@ body {
 
 
 
-header { background: var(---cor-de-fundo);
+header { background: var(---cabecalho);
 	padding: 20px 0;
 	width: 100vw;
 }
