@@ -89,7 +89,7 @@ body
 
 
 
-      .disclaimer-premium {
+      .rodape-link {
         display: flex;
         flex-direction: row;
         justify-content: space-between;
@@ -101,7 +101,7 @@ body
       
      
      
-      .disclaimer-premium button {
+      .rodape-link button {
         background-color: #fff;
         color: var(---cor-de-fundo);
         height: 50px;
@@ -116,7 +116,7 @@ body
           cursor: pointer;
       } 
 
- .rodapé__titulo{
+ .rodape__titulo{
     height: 6px;
     color: var(---branco)
  }

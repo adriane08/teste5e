@@ -38,7 +38,7 @@ body
 
 
 
-.produtos {
+.alternativas {
 	width: 100vw;
 	margin: 0 auto;
 	padding: 50px 0;
@@ -47,7 +47,7 @@ body
 	
 }
 
-.produtos li {
+.alternativas li {
 	text-decoration: none;
 	display: inline-block;
 	text-align: center;
@@ -63,21 +63,21 @@ body
 	margin-top: -160px;
 }
 
-.produtos li:hover {
+.alternativas li:hover {
 	border-color: #bef7b7;
 	background-color: #a2bee0;
 }
 
-.produtos li:active {
+.alternativas li:active {
 	border-color:#87b9f7;
 	background-color: #bbecb5;	
 }
 
-.produtos li:hover h4 {
+.alternativas li:hover h4 {
 	font-size: 55px;
 }
 
-.produtos h4 {
+.alternativas h4 {
 	text-decoration: none;
 	font-size: 35px;
 	font-weight: bold;
