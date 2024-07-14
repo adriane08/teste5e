@@ -1,12 +1,12 @@
 
 
 :root {
-    --cor-de-fundo: #000;
-    --branco: #FFFFFF;
-    --cinza: #121212;
-	--cabecalho: linear-gradient(to right, #5eda4e, #EBA35C);
+    ---cor-de-fundo: #000;
+    ---branco: #FFFFFF;
+    ---cinza: #121212;
+	---cabecalho: linear-gradient(to right, #5eda4e, #EBA35C);
 
-    --fonte-principal:font-family: "Oswald", sans-serif ;
+    ---fonte-principal:font-family: "Oswald", sans-serif ;
     
 }
 
