@@ -1,5 +1,6 @@
-
-
+@import url(styles/header.css);
+@import url(styles/pergunta-resposta.css);
+@import url(styles/rodape.css);
 :root {
     ---cor-de-fundo: #000;
     ---branco: #FFFFFF;
@@ -21,71 +22,10 @@ body {
 
 
 
-header { background: var(---cabecalho);
-	padding: 20px 0;
-	width: 100vw;
-}
 
 body
 { background: var(---cinza);
 	width: 100vw;
-}
-.pergunta {
-	position: relative;
-	width: 100vw;
-	margin: 0 auto;
-}
-
-
-
-.alternativas {
-	width: 100vw;
-	margin: 0 auto;
-	padding: 50px 0;
-	
-
-	
-}
-
-.alternativas li {
-	text-decoration: none;
-	display: inline-block;
-	text-align: center;
-	width: 30%;
-	height: 30%;
-	vertical-align: top;
-	margin: 0 1.5%;
-	padding: 30px 20px;
-	box-sizing: border-box;
-	border: 6px solid #303829;
-	border-radius: 10px;
-	background-color: var(---branco);
-	margin-top: -160px;
-}
-
-.alternativas li:hover {
-	border-color: #bef7b7;
-	background-color: #a2bee0;
-}
-
-.alternativas li:active {
-	border-color:#87b9f7;
-	background-color: #bbecb5;	
-}
-
-.alternativas li:hover h4 {
-	font-size: 55px;
-}
-
-.alternativas h4 {
-	text-decoration: none;
-	font-size: 35px;
-	font-weight: bold;
-	cursor: pointer;
-	color:var(---branco);
-	font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-	text-align: center;
-	
 }
 
 
@@ -134,66 +74,5 @@ font-weight: bold;
 		3px -3px 0 #000;
 }
 /*/
-h1 { text-align: center;
-	font-size: 60px;
-	font-weight: bold;
-	font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-	font-weight: bold;
-	-webkit-text-stroke: 1px var(---cor-de-fundo);
-		color:var(---branco);
-		text-shadow:
-	3px 3px 0 var(---cor-de-fundo),
-	-1px -1px 0 var(---cor-de-fundo),
-	1px -1px 0 var(---cor-de-fundo),
-	-1px 1px 0 var(---cor-de-fundo),
-	1px 1px 0 var(---cor-de-fundo); 
-	
-	}
-
- 
- .frango{
-	width: 30%;
-	margin-left: 60vw;
- } 
-
- h4
- {
-text-shadow:
-	3px 3px 0 var(---cor-de-fundo),
-	-1px -1px 0 var(---cor-de-fundo),
-	1px -1px 0 var(---cor-de-fundo),
-	-1px 1px 0 var(---cor-de-fundo),
-	1px 1px 0 var(---cor-de-fundo); 
-	
- }
-
-.imagem-rodape{
-	width: 100vw;
-	height: 30vw;
-}
-h3{
-	margin: 20px;
-    font-size: 30px;
-	font-weight: bold;
-    
-	
-	padding: 50px;
-	
-     font-family: var(---fonte-principal);
-	text-align: center;
-	
-	background-color: #242424;
-	width: 80vw;
-	
-	border-radius: 20px;
-	
-		color:var(---branco);
-	text-shadow:
-		3px 3px 0 var(---cor-de-fundo),
-		-1px -1px 0 var(---cor-de-fundo),
-		1px -1px 0 var(---cor-de-fundo),
-		-1px 1px 0 var(---cor-de-fundo),
-		1px 1px 0 var(---cor-de-fundo);
 
 
-}
