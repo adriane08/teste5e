@@ -127,9 +127,15 @@ text-shadow:
 		margin-top: -200px;
 	 }
 
-	 h1{
-		font-size: 80px;
-	 }
 
-	 
+	 h1{
+		font-size:100px;
+	   }
+	   h3{
+		font-size:60px;
+	   }
+	  
+	   h4{
+		font-size:60px;
+	   }
 }
