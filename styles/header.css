@@ -3,3 +3,8 @@ header { background: var(---cabecalho);
 	padding: 20px 0;
 	width: 100vw;
 }
+
+@media screen and (min-widht:1728px) {
+
+	
+}

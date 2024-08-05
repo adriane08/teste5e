@@ -115,3 +115,11 @@ text-shadow:
 
 
 }
+
+
+@media screen and (min-widht:1728px){
+	.frango{
+		width: 20%;
+		margin-left: 70vw;
+	 } 
+}
