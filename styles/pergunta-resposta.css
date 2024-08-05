@@ -122,4 +122,7 @@ text-shadow:
 		width: 20%;
 		margin-left: 70vw;
 	 } 
+	 .alternativas li{
+		margin-top: -200px;
+	 }
 }
