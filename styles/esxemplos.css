@@ -1,0 +1,22 @@
+.exemplos{
+    background-color: var(---cor-de-fundo);
+   
+    padding-left: 30px;
+    font-family: var(---fonte-principal);
+padding: 30px;
+color: var(---branco);
+border-radius: 20px;
+}
+   
+
+.exemplos-cc{
+    background-color: var(---cor-de-fundo);
+}
+
+
+.imagem-2 {
+        
+    width: 70vw;
+    text-align: center;
+
+}

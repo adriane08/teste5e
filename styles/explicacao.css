@@ -1,0 +1,22 @@
+.explicacao .balanca{
+    font-size: 30vw;
+
+ }
+
+ .imagem-1{
+    width:50vw;
+        margin-left:50vw;
+        margin-top:-150px;
+        
+              
+                
+        
+    }
+
+    .explicacao{
+        font-family: var(---fonte-principal);
+        padding: 30px;
+        color: var(---branco);
+        background-color: var(---cinza);
+        border-radius: 20px;
+           }

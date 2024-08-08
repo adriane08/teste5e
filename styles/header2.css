@@ -1,0 +1,20 @@
+
+header { background: var(---cabecalho);
+	padding: 20px 0;
+	width: 100vw;
+}
+h1 { text-align: center;
+	font-size: 60px;
+	font-weight: bold;
+	font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+	font-weight: bold;
+	-webkit-text-stroke: 1px var(---cor-de-fundo);
+		color:var(---branco);
+		text-shadow:
+	3px 3px 0 var(---cor-de-fundo),
+	-1px -1px 0 var(---cor-de-fundo),
+	1px -1px 0 var(---cor-de-fundo),
+	-1px 1px 0 var(---cor-de-fundo),
+	1px 1px 0 var(---cor-de-fundo); 
+	
+	}

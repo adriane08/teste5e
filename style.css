@@ -1,6 +1,10 @@
 @import url(styles/header.css);
 @import url(styles/pergunta-resposta.css);
 @import url(styles/rodape.css);
+@import url(styles/esxemplos.css);
+@import url(styles/explicacao.css);
+@import url(styles/header2.css);
+@import url(styles/rodape2.css);
 :root {
     ---cor-de-fundo: #000;
     ---branco: #FFFFFF;

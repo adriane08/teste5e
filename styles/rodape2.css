@@ -1,0 +1,33 @@
+.rodape-link {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background-image: url('fundo.jpg');
+    padding: 1rem;
+    color:var(---branco);
+    font-family: var(---fonte-principal);
+  }
+  
+ 
+ 
+  .rodape-link button {
+    background-color: #fff;
+    color: var(---cor-de-fundo);
+    height: 50px;
+    border: 0;
+    border-radius: 9999px;
+    padding: 14px 30px;
+    font-size: 16px;
+    font-weight: bold;
+    text-align: center;
+    vertical-align: middle;
+    flex-shrink: 0;
+      cursor: pointer;
+  } 
+
+.rodape__titulo{
+height: 6px;
+color: var(---branco)
+}
+
+
