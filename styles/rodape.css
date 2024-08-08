@@ -2,3 +2,12 @@ imagem-rodape{
 	width: 100vw;
 	height: 30vw;
 }
+
+
+
+@media screen and (min-width: 1728px) {
+	imagem-rodape{
+		width: 1728px;
+	}
+
+}
